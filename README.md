@@ -56,9 +56,6 @@ The function `parse$4` analyzes a string formatted as key-value pairs, decodes t
 After processing, we see that the function returns a JSON object with several values:
 ![GetSignature](https://imgur.com/9XRGJR7.png)
 
-Let's see how these values are used:
-![GetSignature](https://imgur.com/59dbi6O.png)
-
 We can note that the following function calls the value `sessionKey`:
 ![GetSignature](https://imgur.com/2Xz0QTr.png)
 
