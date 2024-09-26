@@ -60,7 +60,7 @@ Let's see how these values are used:
 ![GetSignature](https://imgur.com/59dbi6O.png)
 
 We can note that the following function calls the value `sessionKey`:
-![GetSignature](https://imgur.com/GVxzzpB.png)
+![GetSignature](https://imgur.com/2Xz0QTr.png)
 
 This value is now set in the variable **Oe**.
 
